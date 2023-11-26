@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**Social Media:**
+
+[![Instagram](icons/instagram.png)](https://www.instagram.com/saed___d/?next=%2F)
