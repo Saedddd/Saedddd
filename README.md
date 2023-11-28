@@ -1,6 +1,6 @@
-# Saedddd
+# Hello!!
 
-My name is Saed. During my studies, I created web applications and, more importantly, helped others create them.
+My name is Saedakhram. During my studies, I created web applications and, more importantly, helped others create them.
 
 ---
 
@@ -11,17 +11,58 @@ My name is Saed. During my studies, I created web applications and, more importa
 
 **Currently working with:**
 
-<a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
-<a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
-<a href="https://gitlab.com/" title="GitLab"><img src="icons/gitlab.png" /></a>
-<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
-<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
-<a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
+<p align="left">  
+<!-- React -->
+<a href="#">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
+ </a> 
+ <!-- TypeScript -->
+<a href="#">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
+</a>
+<!-- Webpack -->
+  <a href="#">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa">
+</a>
+<!-- Sass -->
+<a href="#">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
+</a>
+<!-- JavaScript -->
+<a href="#">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
+</a>
+<!-- HTML -->
+<a href="#">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=HTML5">
+</a>
+<!-- Css3 -->
+<a href="#">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
+</a>
+<!-- GitHub -->
+<a href="#">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
+</a>
+<!-- Git -->
+<a href="#">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git">
+</a>
+<!-- Firebase -->
+<a href="#">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase">
+</a>
+</p>
 
-<!-- **Learning:**
+**Learning:**
 
-<a href="https://golang.org/" title="Golang"><img src="icons/golang.png" /></a>
-<a href="https://www.rust-lang.org/" title="Rust"><img src="icons/rust.png" /></a>
-<a href="https://dart.dev/" title="Dart"><img src="icons/dartlang.png" /></a>
-<a href="https://flutter.dev/" title="Flutter"><img src="icons/flutter.png" /></a> -->
+<p align="left"> 
+<!-- NestJS -->
+<a href="#">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=NestJS">
+</a>
+<!-- NextJS -->
+<a href="#">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Next.js">
+</a>
+</p>
