@@ -76,7 +76,7 @@ My name is Saedakhram. During my studies, I created web applications and, more i
 
 </p>
 
-<div>
-<a href="https://github.com/Saedddd/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=dark&show_icons=true" width="350" align="right" /></a>
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=lifeparticle&theme=highcontrast&hide_border=true" width="350" /></a>
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Saedddd&bg_color=30,FD6B19,FE1E07&title_color=fff&text_color=fff&hide_border=true&show_icons=true&icon_color=fff&count_private=true&custom_title=My%20Stats" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saedddd&layout=compact&bg_color=30,FD6B19,FE1E07&title_color=fff&text_color=fff&hide_border=true&custom_title=I%20use" />
 </div>
