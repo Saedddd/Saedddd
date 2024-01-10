@@ -1,4 +1,5 @@
 # Hello!!
+<img src="https://user-images.githubusercontent.com/1612112/213943678-c34cb1a9-94f9-4be0-86dd-8e2227fa4b8c.gif" alt="hello" align="left">
 
 <div align="center">
   <h2>About:</h2>
@@ -74,3 +75,8 @@ My name is Saedakhram. During my studies, I created web applications and, more i
 </a>
 
 </p>
+
+<div>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=dark&show_icons=true" width="350" align="right" /></a>
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=lifeparticle&theme=highcontrast&hide_border=true" width="350" /></a>
+</div>
