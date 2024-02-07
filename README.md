@@ -58,6 +58,10 @@ My name is Saedakhram. During my studies, I created web applications and, more i
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase">
 </a>
 </p>
+<!-- NextJS -->
+<a href="#">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Next.js">
+</a>
 
 **Learning:**
 
@@ -66,10 +70,7 @@ My name is Saedakhram. During my studies, I created web applications and, more i
 <a href="#">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=NestJS">
 </a>
-<!-- NextJS -->
-<a href="#">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Next.js">
-</a>
+
 
 <a href="#">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Redux">
