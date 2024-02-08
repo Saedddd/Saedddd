@@ -18,6 +18,10 @@ My name is Saedakhram. During my studies, I created web applications and, more i
 **Currently working with:**
 
 <p align="left">  
+<!-- NextJS -->
+<a href="#">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Next.js">
+</a>
 <!-- React -->
 <a href="#">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
@@ -26,6 +30,14 @@ My name is Saedakhram. During my studies, I created web applications and, more i
 <a href="#">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
 </a>
+<!-- JavaScript -->
+<a href="#">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
+</a>
+<!-- Node.js -->
+<a href="#">
+    <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Node.js">
+  </a>
 <!-- Webpack -->
   <a href="#">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa">
@@ -34,10 +46,7 @@ My name is Saedakhram. During my studies, I created web applications and, more i
 <a href="#">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
 </a>
-<!-- JavaScript -->
-<a href="#">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
-</a>
+
 <!-- HTML -->
 <a href="#">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=HTML5">
@@ -64,14 +73,9 @@ My name is Saedakhram. During my studies, I created web applications and, more i
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase">
 </a>
 </p>
-<!-- NextJS -->
-<a href="#">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Next.js">
-</a>
 
- <a href="#">
-    <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Node.js">
-  </a>
+
+ 
 
 
 
