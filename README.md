@@ -46,6 +46,10 @@ My name is Saedakhram. During my studies, I created web applications and, more i
 <a href="#">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
 </a>
+  <!-- UXDesign -->
+  <a href="#">
+    <img  src="https://readme-components.vercel.app/api?component=logo&logo=🟪&desc=UI/UXDesign&fill=black">
+  </a>
 
 <!-- HTML -->
 <a href="#">
