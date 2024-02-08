@@ -1,4 +1,4 @@
-# Hello!!
+
 <img src="https://user-images.githubusercontent.com/1612112/213943678-c34cb1a9-94f9-4be0-86dd-8e2227fa4b8c.gif" alt="hello" align="left">
 
 <div align="center">
@@ -12,6 +12,8 @@ My name is Saedakhram. During my studies, I created web applications and, more i
 
 [![GitHub](icons/github.png)](https://github.com/Saedddd)
 [![Instagram](icons/instagram.png)](https://www.instagram.com/saed___d/)
+
+### - 💼 FrontEnd Engineer
 
 **Currently working with:**
 
@@ -41,6 +43,10 @@ My name is Saedakhram. During my studies, I created web applications and, more i
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=HTML5">
 </a>
 </br>
+ <!--Tailwind-->
+  <a href="#">
+    <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Tailwindcss&svgfill=2d79c7">
+  </a>
 <!-- Css3 -->
 <a href="#">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
@@ -63,6 +69,12 @@ My name is Saedakhram. During my studies, I created web applications and, more i
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Next.js">
 </a>
 
+ <a href="#">
+    <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Node.js">
+  </a>
+
+
+
 **Learning:**
 
 <p align="left"> 
@@ -70,6 +82,18 @@ My name is Saedakhram. During my studies, I created web applications and, more i
 <a href="#">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=NestJS">
 </a>
+  <!--PostgreSql-->
+  <a href="#">
+    <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postgresql">
+  </a>
+  <!--Docker-->
+  <a href="#">
+    <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Docker">
+  </a>
+  <!--Swagger-->
+  <a href="#">
+    <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Swagger">
+  </a>
 
 
 <a href="#">
