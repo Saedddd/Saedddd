@@ -24,7 +24,7 @@ My name is Saedakhram. During my studies, I created web applications and, more i
 </a>
 <!-- React -->
 <a href="#">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
+ <img  src="[https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe](https://readme-components.vercel.app/api?component=logo&logo=react&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)">  
  </a> 
  <!-- TypeScript -->
 <a href="#">
