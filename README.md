@@ -8,7 +8,7 @@ My name is Saedakhram. During my studies, I created web applications and, more i
 
 ---
 
-**Social Media:**
+**Social Media:***
 
 [![GitHub](icons/github.png)](https://github.com/Saedddd)
 [![Instagram](icons/instagram.png)](https://www.instagram.com/saed___d/)
