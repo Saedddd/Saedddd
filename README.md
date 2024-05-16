@@ -87,9 +87,9 @@ My name is Saedakhram. During my studies, I created web applications and, more i
 
 <p align="left"> 
  <!--GOr-->
-  <a href="#">
+<!--   <a href="#">
     <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=GO">
-  </a>
+  </a> -->
 <!-- NestJS -->
 <a href="#">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=NestJS">
