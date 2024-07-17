@@ -10,9 +10,13 @@ My name is Saedakhram. During my studies, I created web applications and, more i
 
 **Social Media:**
 
-[![GitHub](icons/github.png)](https://github.com/Saedddd)
-[![Instagram](icons/instagram.png)](https://www.instagram.com/saed___d/)
-[![wakatime](https://wakatime.com/badge/user/018e4c7e-16ca-47d2-88c0-e082c93a8d4f.svg)](https://wakatime.com/@018e4c7e-16ca-47d2-88c0-e082c93a8d4f)
+<div align="center">
+  [![GitHub](icons/github.png)](https://github.com/Saedddd)
+  [![Instagram](icons/instagram.png)](https://www.instagram.com/saed___d/)
+  [![wakatime](https://wakatime.com/badge/user/018e4c7e-16ca-47d2-88c0-e082c93a8d4f.svg)](https://wakatime.com/@018e4c7e-16ca-47d2-88c0-e082c93a8d4f)
+</div>
+
+
 
 ### - 💼 FrontEnd Engineer
 
