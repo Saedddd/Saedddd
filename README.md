@@ -8,11 +8,19 @@ My name is Saedakhram. During my studies, I created web applications and, more i
 
 ---
 
+ Codewars level: 
 
-**Social Media:**
+
+
+
+
+<div align="center">
 
 [![Linkedin](icons/linkedin.png)](https://www.linkedin.com/in/saidakhram-muzakperov-7771792a2/)
-[![Instagram](icons/instagram.png)](https://www.instagram.com/saed___d/)
+[![Instagram](icons/instagram.png)](https://www.instagram.com/saed___d/) </br> </br>
+Codewars level: </br> 
+![CodeWars](https://www.codewars.com/users/Saedddd/badges/large) 
+</div>
 
 <div align="center">
   
