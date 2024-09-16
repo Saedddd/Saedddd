@@ -1,5 +1,4 @@
 
-<img src="https://user-images.githubusercontent.com/1612112/213943678-c34cb1a9-94f9-4be0-86dd-8e2227fa4b8c.gif" alt="hello" align="left">
 
 <div align="center">
   <h2>About:</h2>
@@ -8,11 +7,7 @@ My name is Saedakhram. During my studies, I created web applications and, more i
 
 ---
 
- Codewars level: 
-
-
-
-
+Social: 
 
 <div align="center">
 
