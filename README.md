@@ -13,7 +13,7 @@ Social:
 
 [![Linkedin](icons/linkedin.png)](https://www.linkedin.com/in/saidakhram-muzakperov-7771792a2/)
 [![Instagram](icons/instagram.png)](https://www.instagram.com/saed___d/) </br> </br>
-Codewars level: </br> 
+Codewars level: </br> </br> 
 ![CodeWars](https://www.codewars.com/users/Saedddd/badges/large) 
 </div>
 
